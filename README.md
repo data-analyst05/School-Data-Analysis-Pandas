@@ -18,5 +18,12 @@ The analysis includes the following sections:
 
 1. **District Summary**: Calculates and presents key metrics for the entire district.
 2. **School Summary**: Summarizes key metrics for each individual school.
-3. **Top-Performing Schools**: Lists the top-performing schools based on overall passing percentage.
-4. **Lowest-Performing Schools**:
+3. **Top-Performing Schools**: Lists the top-performing schools based on overall passing percentage. Cabrera High School is the Top_performing school 
+4. **Lowest-Performing Schools**: Ford High School is the lowest-performing school
+
+## Observations and Conclusions
+1. **School Type Impact**: Charter schools generally outperform district schools in terms of average scores and passing percentages. This trend is consistent across both math and reading subjects.
+
+2. **Spending vs. Performance**: Schools with lower per-student spending tend to have higher passing percentages in both math and reading. This suggests that increased spending does not always correlate with improved performance.
+
+Overall, the analysis provides valuable insights into school performance based on various factors, which can aid decision-making for the school district's future budget allocation and priorities.
