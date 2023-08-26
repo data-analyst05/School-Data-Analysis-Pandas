@@ -7,11 +7,13 @@ This project involves analyzing school and standardized test data for a city's s
 
 ## Files and Structure
 - `School-Data-Analysis-Pandas/`
-  - `School-Data-Analysis-Pandas.py`: The analysis script.
-  - `School-Data-Analysis_jupyter_Notebook.ipynb`: Jupyter Notebook script
+  - `csv_files/`
   - `Resources/`
     - `schools_complete.csv`: CSV file containing school data.
     - `students_complete.csv`: CSV file containing student data.
+  - `School-Data-Analysis-Pandas.py`: The analysis script.
+  - `School-Data-Analysis_jupyter_Notebook.ipynb`: Jupyter Notebook script
+  - `school_district_analysis.xlsx`: This contain the output of the result in excel sheets
 
 ## Analysis Summary
 The analysis includes the following sections:
@@ -20,6 +22,11 @@ The analysis includes the following sections:
 2. **School Summary**: Summarizes key metrics for each individual school.
 3. **Top-Performing Schools**: Lists the top-performing schools based on overall passing percentage. Cabrera High School is the Top_performing school 
 4. **Lowest-Performing Schools**: Ford High School is the lowest-performing school
+
+## Results Output
+**school_district_analysis.xlsx**: This contain the output of the result in one excel file but in several sheets.
+
+**csv_files**: This contain the output of the result in individual csv file
 
 ## Observations and Conclusions
 1. **School Type Impact**: Charter schools generally outperform district schools in terms of average scores and passing percentages. This trend is consistent across both math and reading subjects.
