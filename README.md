@@ -7,12 +7,13 @@ This project involves analyzing school and standardized test data for a city's s
 
 ## Files and Structure
 - `School-Data-Analysis-Pandas/`
+  - `csv_files/`
   - `Resources/`
     - `schools_complete.csv`: CSV file containing school data.
     - `students_complete.csv`: CSV file containing student data.
   - `School-Data-Analysis-Pandas.py`: The analysis script.
   - `School-Data-Analysis_jupyter_Notebook.ipynb`: Jupyter Notebook script
-
+  - `school_district_analysis.xlsx`: This contain the output of the result in excel sheets
 
 ## Analysis Summary
 The analysis includes the following sections:
